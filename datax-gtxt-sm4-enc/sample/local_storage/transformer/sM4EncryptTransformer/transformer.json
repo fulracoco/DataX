@@ -1,0 +1,6 @@
+{
+  "name": "sM4EncryptTransformer",
+  "class": "com.hoperun.datax.transfer.sm4.SM4EncryptTransformer",
+  "description": "sM4EncryptTransformer",
+  "developer": "aa"
+}
