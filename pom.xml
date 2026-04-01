@@ -38,7 +38,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <maven.compiler.encoding>UTF-8</maven.compiler.encoding>
-        <mysql.driver.version>5.1.47</mysql.driver.version>
+        <mysql.driver.version>8.0.33</mysql.driver.version>
     </properties>
 
     <modules>
@@ -136,6 +136,7 @@
         <module>gaussdbreader</module>
         <module>gaussdbwriter</module>
         <module>datax-example</module>
+        <module>datax-gtxt-sm4-enc</module>
 
     </modules>
 
